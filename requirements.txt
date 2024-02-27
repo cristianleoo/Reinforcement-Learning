@@ -1,0 +1,4 @@
+matplolib
+numpy
+os
+pickle

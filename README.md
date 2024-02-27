@@ -13,9 +13,15 @@ Each tutorial is contained in its own directory, which includes the source code,
 
 The first tutorial introduces the concept of reinforcement learning through a simple GridWorld environment. The agent learns to navigate a grid, avoiding obstacles and reaching a goal.
 
-- Source Code: `gridworld.py`
-- Jupyter Notebook: `gridworld.ipynb`
-- Medium Article: [Link to Medium Article]
+- Jupyter Notebook: `demo.ipynb`
+- Medium Article: [https://towardsdatascience.com/reinforcement-learning-101-building-a-rl-agent-0431984ba178#f7b6]
+
+## Tutorial 2: Q-Learning
+
+The second tutorial introduces the implementation of the Q-Learning algorithm.
+In this tutorial we increase the complexity of the GridWorld environment, adding random obstacles.
+
+- Python File `main.py`
 
 ## Installation
 
