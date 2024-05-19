@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .DS_Store
 .env
 Tutorial 3 - Policy Gradient Methods/
@@ -7,7 +6,3 @@ Tutorial 3 - Policy Gradient Methods/
 .gif
 venv/
 .dylib
-=======
-
-Tutorial 1 - Building your first RL Agent/.DS_Store
->>>>>>> parent of 1aa379f0 (Deep Q-Networks v1)
