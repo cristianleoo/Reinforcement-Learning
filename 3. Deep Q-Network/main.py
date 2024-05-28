@@ -12,10 +12,10 @@ import optuna
 TRAIN = True
 FINETUNE = False
 SAVE_MODEL = True # Save the model after training
-SAVE_VIDEO = False # Save the video of the training process
+SAVE_VIDEO = True # Save the video of the training process
 
 # Training hyperparameters
-TRAINING_EPISODES = 1000 # valid only if TRAIN is True
+TRAINING_EPISODES = 10 # valid only if TRAIN is True
 FINETUNE_TRIALS = 100 # valid only if FINETUNE is True
 
 # Set the following hyperparameters if FINETUNE is False
